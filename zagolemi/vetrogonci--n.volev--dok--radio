@@ -1,0 +1,15 @@
+име:         Ветрогонци
+етикети:     възрастни документални
+автор:       НиколайВолев
+година:      2009
+издания:     радио
+икони:       vetrogonci.jpg
+качество:    ?/~
+опис.връзки:
+  http://bnr.bg/sites/hristobotev/Shows/Society/DocumentalStudio/Pages/100320Vetrogonci.aspx: БНР
+описание:    една лична история
+откога:      120102
+участници:
+  редактор: ДаниелаМанолова
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

@@ -1,0 +1,42 @@
+име:         Светлините пред нас ги запалихте вие
+етикети:     възрастни стихове
+издания:     ВТА10187
+икони:       bta10178-1.jpg
+качество:    ?/?
+обработка:
+- qwavcut B-BTA\ 10187.mp3.wav -B 326800j -E 359s -o тук.шушне.тихо.само.вятър.wav
+- qwavcut B-BTA\ 10187.mp3.wav -B 566s -E 603600j -o отново.тръгваме.на.път.далечен.wav
+- qwavcut B-BTA\ 10187.mp3.wav -B 115s -E 167s -o penio.penev2.wav
+- qwavcut B-BTA\ 10187.mp3.wav -B 5s -E 112s -o penio.penev1.wav
+опис.връзки:
+  http://oldbgrecords.blog.bg/muzika/2012/02/18/svetlinite-pred-nas-gi-zapalihte-vie-1978.903953: цялата
+    плоча
+опис3: >
+  Песни и стихове на Пеньо Пенев, Любомир Левчев, Дамян Дамянов, Стойчо Стойчев и
+  Иван Баджев. музика - Тончо Русев.
+описание:    уфф. За останалата пропаганда - виж връзката
+откога:      120404
+произход:    oldbgrecords
+участници:
+  изпълнение: ГретаГанчева
+парчета:
+  proklamacia--penio.penev-gr.gancheva:
+    име:         Прокламация
+    автор:       ПеньоПенев
+    опис.връзки:
+      http://www.slovo.bg/showwork.php3?AuID=212&WorkID=10107&Level=3: текст
+    откога:      20120404
+  nategnatite.klepki.syn.lepi--penio.penev-gr.gancheva:
+    име:         Натегнатите клепки сън лепи...
+    автор:       ПеньоПенев
+    опис.връзки:
+      http://www.slovo.bg/showwork.php3?AuID=212&WorkID=10134&Level=3: текст
+    откога:      20120404
+  tuk.shushne.tiho.samo.viatyr---gr.gancheva:
+    име:    Тук шушне тихо само вятър и градовете са далеч..
+    откога: 20120404
+  otnovo.trygvame.na.pyt.dalechen---gr.gancheva:
+    име:    Отново тръгваме на път далечен, зад нас комини нови бълват дим..
+    откога: 20120404
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

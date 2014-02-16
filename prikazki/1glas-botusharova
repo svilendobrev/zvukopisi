@@ -1,0 +1,93 @@
+име:       Чете А.Ботушарова
+етикети:   и-име отделни папка прочит
+издания:   кънев
+качество:  -/+
+описание:  прочит, слабо..
+описание2: Тук са само такива които ги няма в никакъв друг вариант.. и тях ще махна при първа възможност
+откога:    100820
+произход:  bol-bg jijix joly
+участници:
+  изпълнение: АнтоанетаБотушарова
+парчета:
+  botusharova--ezhko bezhko i zaio baio.vbr:
+    име:    Ежко бежко и зайо байо
+    автор:  БратяГрим
+    откога: 20090505
+  botusharova--lisicata i gyskite.vbr:
+    име:    Лисицата и гъските
+    откога: 20090505
+  botusharova--dobrata tyrgovia.vbr:
+    име:    Добрата търговия
+    автор:  БратяГрим
+    откога: 20090505
+  botusharova--umnata gotvachka.vbr:
+    име:    Умната готвачка
+    автор:  БратяГрим
+    откога: 20090505
+  botusharova--doktor vseznajko.vbr:
+    име:    Доктор Всезнайко
+    автор:  БратяГрим
+    откога: 20090505
+  botusharova--trite perushinki:
+    име:    Трите перушинки
+    автор:  БратяГрим
+    откога: 20080414
+  botusharova--pystrokozhka:
+    име:    Пъстрокожка
+    автор:  БратяГрим
+    откога: 20080414
+  botusharova--sedemte garvana:
+    име:    Седемте гарвана
+    автор:  БратяГрим
+    откога: 20080414
+  botusharova--zhabokyt car ili zhelezniiat hainrih:
+    име:   Жабокът цар или железният Хайнрих
+    автор: БратяГрим
+  botusharova--malechko palechko:
+    име:    Малечко-палечко
+    автор:  ШарлПеро
+    откога: 20080414
+  botusharova--vylshebnici:
+    име:    Вълшебници
+    автор:  БратяГрим
+    откога: 20110808
+  botusharova--slaveiat_i_rozata--o.uaild--kynev:
+    име:    Славеят и розата
+    автор:  ОскарУайлд
+    откога: 20120319
+  botusharova--shtastliviiat_princ--o.uaild--kynev:
+    име:    Щастливият принц
+    автор:  ОскарУайлд
+    откога: 20120319
+  botusharova--sebeliubiviiat_velikan--o.uaild--kynev:
+    име:    Себелюбивият великан
+    автор:  ОскарУайлд
+    откога: 20120319
+
+#cd0646: баба-зима, Всезнайко
+#парчета-не:
+#  botusharova--vylkyt i sedemte kozleta.vbr:
+#    име:   Вълкът и седемте козлета
+#    автор: БратяГрим
+#  botusharova--chetirimata muzikanti.vbr:
+#    име:   Четирите музиканти
+#    автор: БратяГрим
+#  botusharova--palechka:
+#    име:   Палечка
+#    автор: ХансАндерсен
+#  botusharova--henzel i gretel:
+#    име:   Хензел и Гретел
+#    автор: БратяГрим
+#  botusharova--car drozdobrad:
+#    име:   Цар Дроздобрад
+#    автор: БратяГрим
+#  botusharova--kotarakyt s chizmi:
+#    име:   Котаракът с чизми
+#    автор: БратяГрим
+#  botusharova--pepeliashka--kynev:
+#    име:   Пепеляшка
+#    автор: ШарлПеро
+#  botusharova--kakvoto-stori-diado--kynev:
+#    име:   Каквото стори дядо все е хубаво
+#    автор: ХансАндерсен
+# vim:ts=4:sw=4:expandtab:ft=yaml

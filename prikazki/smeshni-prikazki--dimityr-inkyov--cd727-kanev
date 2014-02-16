@@ -1,0 +1,51 @@
+име:       Смешни приказки
+етикети:   и-автор избор номер1 отделни папка прочит
+автор:     ДимитърИнкьов
+издания:   cd727-кънев
+икони:     smeshni-prikazki--cd727.jpg
+качество:  +/+
+откога:    100820
+участници:
+  изпълнение: ДимитърИнкьов
+парчета:
+  inkyov-01.izbiagalata-vecheria:
+    име:    Избягалата вечеря
+    откога: 20090512
+  inkyov-02.otkradnatata-lukanka:
+    име:    Откраднатата луканка
+    откога: 20090512
+  inkyov-03.hitrata-mishka:
+    име:    Хитрата мишка
+    откога: 20090512
+  inkyov-04.peeshtiiat-kotarak:
+    име:    Пеещият котарак
+    откога: 20090512
+  inkyov-05.mishkata-koiato-se-nauchi-da-lae:
+    име:    Мишката, която се научи да лае
+    откога: 20090512
+  inkyov-06.pred-nova-godina:
+    име:    Пред Нова година
+    откога: 20090512
+  inkyov-07.zashto-kotkite-mraziat-mishkite:
+    име:    Защо котките мразят мишките
+    откога: 20090512
+  inkyov-08.mravkata-i-lyvyt:
+    име:    Мравката и лъвът
+    откога: 20090512
+  inkyov-09.poseshtenie-v-stomaha-na-edin-krokodil:
+    име:    Посещение в стомаха на един крокодил
+    откога: 20090512
+  inkyov-10.pluvashtiiat-restorant-i-piletata-slugi:
+    име:    Плуващият ресторант и пилетата слуги
+    откога: 20090512
+  inkyov-11.taralezh-v-ogledaloto:
+    име:    Таралеж в огледалото
+    откога: 20090512
+  inkyov-12.iazovecyt-kojto-ne-iskashe-da-voni:
+    име:    Язовецът, който не искаше да вони
+    откога: 20090512
+  inkyov-13.golemiiat-dyzhdoven-chervej:
+    име:    Големият дъждовен червей
+    откога: 20090512
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

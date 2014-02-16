@@ -1,0 +1,32 @@
+име:         Джобни разказчета
+етикети:     и-автор и-име изпълнители-в-автор отделни папка прочит
+автор:       ЛуиджиМалерба
+издания:     радио
+икони:       dzhobni.razkazcheta--l.malerba--kniga.jpg
+качество:    ?/+
+опис.връзки:
+  http://bnr.bg/sites/hristobotev/Shows/ChildrenShows/RazkajiMiPrikazka/Pages/120326_Djobni_razkazi.aspx: БНР
+опис.фон:    част от музиката е на Симо Лазаров от Малкото слонче
+откога:      120330
+участници:
+  изпълнение:           ИцхакФинци
+  музикално-оформление: КалинкаГерганова
+  адаптация:            МарианаСимеонова
+парчета:
+  dzhobni.razkazcheta-garvani--l.malerba-i.finci--radio:
+    име:    Гарваните
+    откога: 20120328
+  dzhobni.razkazcheta-kucheto.bobi--l.malerba-i.finci--radio:
+    име:    Кучето Боби
+    откога: 20120330
+  dzhobni.razkazcheta-morkov.i.luk--l.malerba-i.finci--radio:
+    име:    Морков и лук
+    откога: 20120330
+  dzhobni.razkazcheta-mustakan--l.malerba-i.finci--radio:
+    име:    Котаракът Мустакан
+    откога: 20120328
+  dzhobni.razkazcheta-ohliuvi--l.malerba-i.finci--radio:
+    име:    Охлювът
+    откога: 20120327
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

@@ -1,0 +1,65 @@
+име:       Лека нощ деца - песни
+етикети:   накратко песни участници-в-автор
+година:    1970
+издания:   ВЕА1489
+икони:     leka-nosht-deca-bea1489.jpg
+качество:  ~/+
+откога:    100919
+участници:
+  изпълнение: СтефанВоронов
+  музика:     АтанасКосев
+парчета:
+  s.voronov-leka.nosht-01.lunata:
+    име:    Луната
+    откога: 20090620
+  s.voronov-leka.nosht-02.malkite.zvezdi:
+    име:    Малките звезди
+    откога: 20090620
+  s.voronov-leka.nosht-03.zhabokyt:
+    име:    Жабокът
+    откога: 20090620
+  s.voronov-leka.nosht-04.koteto:
+    име:    Котето
+    откога: 20090620
+  s.voronov-leka.nosht-05.hubavo.e:
+    име:    Хубаво е
+    откога: 20090620
+  s.voronov-leka.nosht-06.nedeliata:
+    име:    Неделята
+    откога: 20090620
+  s.voronov-leka.nosht-07.v.afrika:
+    име:    В африка
+    откога: 20090620
+  s.voronov-leka.nosht-08.koncheto.dorcho:
+    име:    Кончето Дорчо
+    откога: 20090620
+  s.voronov-leka.nosht-09.kovachyt:
+    име:    Ковачът
+    откога: 20090620
+  s.voronov-leka.nosht-10.leti.kolata:
+    име:    Лети колата
+    откога: 20090620
+  s.voronov-leka.nosht-11.trygvam.na.pyt:
+    име:    Тръгвам на път
+    откога: 20090620
+  s.voronov-leka.nosht-12.malkite.drugari:
+    име:    Малките другари
+    откога: 20090620
+  s.voronov-leka.nosht-13.vylshebnikyt:
+    име:    Вълшебникът
+    откога: 20090620
+  s.voronov-leka.nosht-14.koj.li.shte.poviarva:
+    име:    Кой ли ще повярва
+    откога: 20090620
+  s.voronov-leka.nosht-15.snegyt:
+    име:    Снегът
+    откога: 20090620
+  s.voronov-leka.nosht-16.prikazen.chas:
+    име:    Приказен час
+    откога: 20090620
+  s.voronov-leka.nosht-17.synishta:
+    име:    Сънища
+    откога: 20090620
+
+#и-номер
+# vim:ts=4:sw=4:expandtab:ft=yaml

@@ -1,0 +1,32 @@
+име:       Железният светилник
+етикети:   възрастни изпълнители-в-автор прочит
+автор:     ДимитърТалев
+година:    1985?
+издания:   радио
+качество:  ?/+
+обработка:
+- qwavcut  zhelezniiat.svetilnik--d.talev--radio.01.wav -B600j -E11s -o zhelezniiat.svetilnik--d.talev--radio.00.wav
+- qcut  zhelezniiat.svetilnik--d.talev--radio.01.wav 13s 565500j
+- qcut  zhelezniiat.svetilnik--d.talev--radio.02.wav 14s 585s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.03.wav 16s 442s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.04.wav 22s 552s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.05.wav 24s  518s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.06.wav 17s  567s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.07.wav 13s  557s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.08.wav 14s  559s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.09.wav 14500j  546s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.10.wav 17300j   576s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.11.wav 16s   575s
+- qcut  zhelezniiat.svetilnik--d.talev--radio.12.wav 14s   539400j
+- qcut  zhelezniiat.svetilnik--d.talev--radio.13.wav 5s   554s
+- qwavcut  zhelezniiat.svetilnik--d.talev--radio.01.wav -B 565000j -E571s -o zhelezniiat.svetilnik--d.talev--radio.91.wav
+- qwavcut  zhelezniiat.svetilnik--d.talev--radio.01.wav -B 572600j -E578s -o zhelezniiat.svetilnik--d.talev--radio.92.wav
+- qcut  zhelezniiat.svetilnik--d.talev--radio.14.wav 5s   556400j
+- wavcat.py -o zhelezniiat.svetilnik--d.talev-i.tonev--radio.wav z*.00.wav cut*v z*.9[12]*v
+откога:    120322
+откъде:    сглобено, 14 части, Радиоколекция 21.02-9.3.2012
+участници:
+  изпълнение: ИванТонев
+
+#2012.02.21-24,27-29 03.01-02,05-09
+# vim:ts=4:sw=4:expandtab:ft=yaml

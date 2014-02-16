@@ -1,0 +1,33 @@
+име:         За фльонги, котки, кучета, коне и какво ли още не
+етикети:     изпълнители-в-автор отделни папка прочит
+автор:       МараЧапанова
+издания:     радио
+икони:       fliongi-m.chapanova.jpg
+качество:    ?/?
+опис.връзки:
+  http://www.lecsiko.com/9993_razkazi-za-fliongi-kotki-kucheta-kone-i-kakvo-li-oshte-ne.html: книга
+  http://club50plus.bg/creative/poetry/1179-risuvam-pregradka-za-zakrila.html:                стихове
+откога:      120323
+откъде:      Време за приказка 20120319-0322
+участници:
+  изпълнение:
+  - ИцхакФинци
+  - МараЧапанова
+парчета:
+  za.fliongi.kotki.kucheta.kone--m.chapanova--radio.0319:
+    име:    Жената в червено и кучето Нещо
+    откога: 20120323
+  za.fliongi.kotki.kucheta.kone--m.chapanova--radio.0320:
+    име:    Срамежливото момиченце Ая
+    откога: 20120323
+  za.fliongi.kotki.kucheta.kone--m.chapanova--radio.0321:
+    име:    Свраката и историята на пеперудите
+    откога: 20120323
+  za.fliongi.kotki.kucheta.kone--m.chapanova--radio.0322:
+    име:    Черното куче и неговия вуйчо
+    откога: 20120322
+  za.fliongi.kotki.kucheta.kone--m.chapanova--radio.0323:
+    име:    Старият гларус в бурята
+    откога: 20120323
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

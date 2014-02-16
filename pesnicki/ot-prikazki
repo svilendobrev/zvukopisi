@@ -1,0 +1,544 @@
+име:            Песнички от приказки от плочи и радиотеатри
+имена:
+  en: Songs from children fairytales from LPs and radiotheaters
+  ru: Песенки из детских сказок с пластинок и радиотеатров
+етикети:        избор накратко песни препоръка
+качество:       +/+
+описание2: >-
+  Имало подобни плочи - "Да спрем на спирка песен /ВАА10580 /ВАА11865" - но нa снимка..
+
+  подбор, отделяне, обработка, сглобяване... svd'2011
+откога:         110916
+шаблон-елемент: 'ф: залепи( " ", ф.групаномер, ф.елемент)'
+групи:
+- група:   3те прасенца
+  име:     +=papka[ prikazki/3te-prasenca--zajche--kotarache--lisica-shtyrkel--zlatnata-ribka--cd-bton
+    == (приказка) ]url
+  парчета:
+    3te prasenca:1. pifpafpuf:
+      име:    Пифпафпуф
+      откога: 20110731
+    3te prasenca:2. pifpafpuf2:
+      име:    Пифпафпуф2
+      откога: 20110731
+    3te prasenca:3. vylcho:
+      име:    Вълчо
+      откога: 20110731
+    3te prasenca:4. pifpafpuf3:
+      име:    Пифпафпуф3
+      откога: 20110731
+- група:   Коте-котараче
+  име:     +=papka[ prikazki/3te-prasenca--zajche--kotarache--lisica-shtyrkel--zlatnata-ribka--cd-bton
+    == (приказка) ]url
+  парчета:
+    Kote-kotarache:
+      име:    ''
+      откога: 20110731
+- група:   Палавото зайче
+  име:     +=papka[ prikazki/3te-prasenca--zajche--kotarache--lisica-shtyrkel--zlatnata-ribka--cd-bton
+    == (приказка) ]url
+  парчета:
+    'Palavoto zajche: pesnichka naopaki':
+      име:    Песничка наопаки
+      откога: 20110731
+- група:   Алиса в огледалото
+  име:     +=papka[ prikazki/alisa-v-ogledalnia-sviat--baa12006== (приказка) ]url
+  парчета:
+    'Alisa v ogledaloto: tyg tygydyk':
+      име:    Тъг тъгъдък
+      откога: 20110731
+- група:   Алиса при чудесата
+  име:     +=papka[ prikazki/alisa-v-stranata-na-chudesata == (приказка) ]url
+  парчета:
+    Alisa pri chudesata:1. nachalo:
+      име:    Начало
+      откога: 20110731
+    Alisa pri chudesata:2. kak iskam da ida niakyde:
+      име:    Как искам да ида някъде
+      откога: 20110731
+    Alisa pri chudesata:3. moreto v polunosht:
+      име:    Морето в полунощ
+      откога: 20110731
+    Alisa pri chudesata:4. mishkata:
+      име:    Мишката
+      откога: 20110731
+    Alisa pri chudesata:5. trudno e ti da si ti:
+      име:    Трудно е ти да си ти
+      откога: 20110731
+    Alisa pri chudesata:6. supa kostenurska:
+      име:    Супа костенурска
+      откога: 20110731
+    Alisa pri chudesata:7. vsichko e vyzmozhno:
+      име:    Всичко е възможно
+      откога: 20110731
+- група:   Бяла приказка
+  име:     +=papka[ prikazki/biala-prikazka--v-petrov--radio == (приказка) ]url
+  парчета:
+    Biala prikazka:1. niama nikoj osven:
+      име:    Няма никой освен
+      откога: 20110731
+    Biala prikazka:2. posegatelstvo:
+      име:    Посегателство
+      откога: 20110731
+    Biala prikazka:3. mechka stryvnica:
+      име:    Мечка стръвница
+      откога: 20110731
+    Biala prikazka:4. priiatel pryv:
+      име:    Приятел пръв
+      откога: 20110731
+    Biala prikazka:5. nikoga1:
+      име:    Никога1
+      откога: 20110731
+    Biala prikazka:6. nikoga2:
+      име:    Никога2
+      откога: 20110731
+    Biala prikazka:7. samo edna tishina:
+      име:    Само една тишина
+      откога: 20110731
+- група:   Бирлибан
+  име:     +=papka[ prikazki/birliban == (приказка) ]url
+  парчета:
+    'Birliban: ne e dyrzhava':
+      име:    Не е държава
+      откога: 20110915
+- група:   Бърборино
+  име:     +=papka[ prikazki/byrborino--baa2005 == (приказка) ]url
+  парчета:
+    Byrborino:1. az sym dyrveno choveche:
+      име:    Аз съм дървено човече
+      откога: 20110731
+    Byrborino:2. zdravejte vitamini - turshijka:
+      име:    Здравейте витамини - туршийка
+      откога: 20110731
+    Byrborino:3. priiateli:
+      име:    Приятели
+      откога: 20110731
+    Byrborino:4. na ulicata - vnimavaj:
+      име:    На улицата - внимавай
+      откога: 20110731
+- група:   Два пищова и куцо магаре
+  име:     +=papka[ prikazki/dva-pishtova-i-edno-kuco-magare == (приказка) ]url
+  парчета:
+    Dva pishtova i magare:1. pirati bezposhtadni:
+      име:    Пирати безпощадни
+      откога: 20110731
+    Dva pishtova i magare:2. konche-kostenurka:
+      име:    Конче-костенурка
+      откога: 20110731
+- група:   Малкото слонче
+  име:     +=papka[ prikazki/gorska-pesen--malkoto-slonche == (приказка) ]url
+  парчета:
+    Malkoto slonche:01. az sym malko slonche sivo:
+      име:    Аз съм малко слонче сиво
+      откога: 20110731
+    Malkoto slonche:02. kakvo li krokodila pohapva na obiad:
+      име:    Какво ли крокодила похапва на обяд
+      откога: 20110731
+    Malkoto slonche:03. siankata:
+      име:    Сянката
+      откога: 20110731
+    Malkoto slonche:04. krokodila kraj rekata:
+      име:    Крокодила край реката
+      откога: 20110731
+    Malkoto slonche:05. ah kakvo da pravia:
+      име:    Ах какво да правя
+      откога: 20110731
+    Malkoto slonche:06. predimstva:
+      име:    Предимства
+      откога: 20110731
+    Malkoto slonche:07. silata mu shte opitam:
+      име:    Силата му ще опитам
+      откога: 20110731
+    Malkoto slonche:08. noviia hobot si nosia:
+      име:    Новия хобот си нося
+      откога: 20110731
+    Malkoto slonche:09. ela da te natupame:
+      име:    Ела да те натупаме
+      откога: 20110731
+    Malkoto slonche:10. sloncheto hobot razmaha:
+      име:    Слончето хобот размаха
+      откога: 20110731
+    Malkoto slonche:11. olele shto e tuj chudo:
+      име:    Олеле що е туй чудо
+      откога: 20110731
+    Malkoto slonche:12. trygvajte kym krokodila kraj rekata:
+      име:    Тръгвайте към крокодила край реката
+      откога: 20110731
+    Malkoto slonche:13. slugi az imam 6 na broj:
+      име:    Слуги аз имам 6 на брой
+      откога: 20110731
+- група:   Храбия шивач
+  име:     +=papka[ prikazki/hrabriia-shivach--baa1084 == (приказка) ]url
+  парчета:
+    Hrabiia shivach:1. na cherkovnoto kube:
+      име:    На черковното кубе
+      откога: 20110731
+    Hrabiia shivach:2. sgotvili shivachite:
+      име:    Сготвили шивачите
+      откога: 20110731
+- група:   Копче за сън
+  име:     +=papka[ prikazki/kopche-za-syn--valeri-petrov--cd700-kanev-balkanton == (приказка) ]url
+  парчета:
+    Kopche za syn:01. mishmish:
+      име:    Мишмиш
+      откога: 20110731
+    Kopche za syn:02. syniat:
+      име:    Сънят
+      откога: 20110731
+    Kopche za syn:03. kuka:
+      име:    Кука
+      откога: 20110731
+    Kopche za syn:04. chervej:
+      име:    Червей
+      откога: 20110731
+    Kopche za syn:05. mish2:
+      име:    Миш2
+      откога: 20110731
+    Kopche za syn:06. mish2 parizh pish buhalche:
+      име:    Миш2 париж пиш бухалче
+      откога: 20110731
+    Kopche za syn:07. taz mirizma:
+      име:    Таз миризма
+      откога: 20110731
+    Kopche za syn:08. mish3 prestizh:
+      име:    Миш3 престиж
+      откога: 20110731
+    Kopche za syn:09. mish4:
+      име:    Миш4
+      откога: 20110731
+    Kopche za syn:10. tvorbata v torbata:
+      име:    Творбата в торбата
+      откога: 20110731
+    Kopche za syn:11. chasovnici:
+      име:    Часовници
+      откога: 20110731
+    Kopche za syn:12. mish5 kenguruto spinka:
+      име:    Миш5 кенгуруто спинка
+      откога: 20110731
+- група:   Крокодилчето Кроки
+  име:     +=papka[ prikazki/krokodilcheto-kroki == (приказка) ]url
+  парчета:
+    'Krokodilcheto Kroki: vse peia':
+      име:    Все пея
+      откога: 20110731
+- група:   В лунната стая
+  име:     +=papka[ prikazki/lunnata-staia--v-petrov--radio == (приказка) ]url
+  парчета:
+    V lunnata staia:1. vyvedenie:
+      име:    Въведение
+      откога: 20110731
+    V lunnata staia:2. konche:
+      име:    Конче
+      откога: 20110731
+    V lunnata staia:3. snega:
+      име:    Снега
+      откога: 20110731
+    V lunnata staia:4. dvama s mama:
+      име:    Двама с мама
+      откога: 20110731
+- група:   Магьосникът от Оз
+  име:     +=papka[ prikazki/magiosnikyt-ot-oz--cd743-kanev == (приказка) ]url
+  парчета:
+    Magiosnikyt ot Oz -instr:
+      име:    ''
+      откога: 20110731
+- група:   Макс и Мориц
+  име:     +=papka[ prikazki/maks-i-moric == (приказка) ]url
+  парчета:
+    'Maks i Moric: peem kato ptichki':
+      име:    Пеем като птички
+      откога: 20110731
+- група:   Малкият принц
+  име:     +=papka[ prikazki/malkia-princ--baa1975 == (приказка) ]url
+  парчета:
+    Malkiiat princ:1. toj niama ime toj e malyk princ:
+      име:    Той няма име той е малък принц
+      откога: 20110731
+    Malkiiat princ:2. neznaen turski astronom:
+      име:    Незнаен турски астроном
+      откога: 20110731
+    Malkiiat princ:3. svoeto cvetche polivam vsiaka zaran:
+      име:    Своето цветче поливам всяка заран
+      откога: 20110731
+    Malkiiat princ:4. ne mi vyrvi gasia fenera dobyr den:
+      име:    Не ми върви гася фенера добър ден
+      откога: 20110731
+    Malkiiat princ:5. ti noshtem kym zvezdite gledaj:
+      име:    Ти нощем към звездите гледай
+      откога: 20110731
+- група:   Маугли
+  име:     +=papka[ prikazki/maugli--baa2097 == (приказка) ]url
+  парчета:
+    'Maugli: po novi diri':
+      име:    По нови дири
+      откога: 20110731
+- група:   Мечо Пух
+  име:     +=papka[ prikazki/mecho-pooh--cd709-kanev--baa10323 == (приказка) ]url  papka[
+    prikazki/mecho-pooh--radio == (приказка2) ]url
+  парчета:
+    Mecho Puh:01. instr.vyvedenie-oblache:
+      име:    Инстр.въведение-облаче
+      откога: 20110731
+    Mecho Puh:02. gatanka lapa medec pchela ne e:
+      име:    Гатанка лапа медец пчела не е
+      откога: 20110731
+    Mecho Puh:03. ako biaha mechkite pcheli:
+      име:    Ако бяха мечките пчели
+      откога: 20110731
+    Mecho Puh:04. instr.vyvedenie:
+      име:    Инстр.въведение
+      откога: 20110731
+    Mecho Puh:05. oblache:
+      име:    Облаче
+      откога: 20110731
+    Mecho Puh:06. tralala rumtutum myrzelan:
+      име:    Тралала румтутум мързелан
+      откога: 20110731
+    Mecho Puh:07. instr.vyvedenie-drugo:
+      име:    Инстр.въведение-друго
+      откога: 20110731
+    Mecho Puh:08. stihotvorenie - tova li e onova:
+      име:    Стихотворение - това ли е онова
+      откога: 20110731
+    Mecho Puh:09. to e vse syshtoto--razgovor:
+      име:    То е все същото--разговор
+      откога: 20110731
+    Mecho Puh:10. instr.vyvedenie4:
+      име:    Инстр.въведение4
+      откога: 20110731
+    Mecho Puh:11. tidlipum - kolkoto poveche vali:
+      име:    Тидлипум - колкото повече вали
+      откога: 20110731
+    Mecho Puh:12. tidlipum2:
+      име:    Тидлипум2
+      откога: 20110731
+    Mecho Puh:13. tidlipum3-kyshta:
+      име:    Тидлипум3-къща
+      откога: 20110731
+    Mecho Puh:14. chudna utrin:
+      име:    Чудна утрин
+      откога: 20110731
+    Mecho Puh:15. ako beshe zajo po-goliam ot tigyr:
+      име:    Ако беше зайо по-голям от тигър
+      откога: 20110731
+- група:   Моливко и Сръчко
+  име:     +=papka[ prikazki/molivko-i-srychko--baa10666 == (приказка) ]url
+  парчета:
+    Molivko i Srychko:1. hajde Molivko rabotlivko:
+      име:    Хайде Моливко работливко
+      откога: 20110731
+    Molivko i Srychko:2. kysmeta:
+      име:    Късмета
+      откога: 20110731
+    Molivko i Srychko:3. lyzhata:
+      име:    Лъжата
+      откога: 20110731
+- група:   Мюнхаузен
+  име:     +=papka[ prikazki/munhausen--baa10239 == (приказка) ]url
+  парчета:
+    Miunhauzen:1. miunhauzen me narichat:
+      име:    Мюнхаузен ме наричат
+      откога: 20110731
+    Miunhauzen:2. vyrvia po sveta:
+      име:    Вървя по света
+      откога: 20110731
+    Miunhauzen:3. vyrvia2:
+      име:    Вървя2
+      откога: 20110731
+    Miunhauzen:4. vyrvia3:
+      име:    Вървя3
+      откога: 20110731
+    Miunhauzen:5. vyrvia4:
+      име:    Вървя4
+      откога: 20110731
+    Miunhauzen:6. vyrvia5:
+      име:    Вървя5
+      откога: 20110731
+    Miunhauzen:7. vyrvia6:
+      име:    Вървя6
+      откога: 20110731
+    Miunhauzen:8. peeshtata Elena:
+      име:    Пеещата Елена
+      откога: 20110731
+- група:   Художник и гларус
+  име:     +=(На приказки с Климент) papka[ prikazki/na-prikazki-s-kliment == (приказка) ]url
+  парчета:
+    S Kliment:1. risuva i pee smeshen hudozhnik:
+      име:    Рисува и пее смешен художник
+      откога: 20110731
+    S Kliment:2. midite:
+      име:    Мидите
+      откога: 20110731
+    S Kliment:3. iajca petnisti bozavi i beli:
+      име:    Яйца петнисти бозави и бели
+      откога: 20110731
+    S Kliment:4. spleskah si losho tvyrdata gaga:
+      име:    Сплесках си лошо твърдата гага
+      откога: 20110731
+- група:   Дядо за риба
+  име:     +=papka[ prikazki/pedya-chovek--diado-za-riba--cd771-kanev-balkanton == (приказка) ]url
+  парчета:
+    Diado za riba:1. karaj Dorcho:
+      име:    Карай Дорчо
+      откога: 20110731
+    Diado za riba:2. ajde babo:
+      име:    Айде бабо
+      откога: 20110731
+- група:   Педя човек - лакът брада
+  име:     +=papka[ prikazki/pedya-chovek--diado-za-riba--cd771-kanev-balkanton == (приказка) ]url
+  парчета:
+    Pedia chovek - lakyt brada:
+      име:    ''
+      откога: 20110731
+- група:   Пипи
+  име:     +=papka[ prikazki/pipi--cd709-kanev-balkanton == (приказка) ]url
+  парчета:
+    Pipi:1. vyvedenie:
+      име:    Въведение
+      откога: 20110731
+    Pipi:2. v svoia dom da se zavyrnesh veche:
+      име:    В своя дом да се завърнеш вече
+      откога: 20110731
+    Pipi:3. az lyzha tebe ti lyzhesh nego:
+      име:    Аз лъжа тебе ти лъжеш него
+      откога: 20110731
+    Pipi:4. da niamash ni tatko ni mama:
+      име:    Да нямаш ни татко ни мама
+      откога: 20110731
+    Pipi:5. samata rozenblium:
+      име:    Самата розенблюм
+      откога: 20110731
+    Pipi:6. kakvo goliamo ozhivlenie:
+      име:    Какво голямо оживление
+      откога: 20110731
+    Pipi:7. levi desni nashta baba Pipilota:
+      име:    Леви десни нашта баба Пипилота
+      откога: 20110731
+- група:   Лиско по море
+  име:     +=papka[ prikazki/lisko-po-more == (приказка) ]url
+  парчета:
+    'Lisko po more: kapitane':
+      име:    Капитане
+      откога: 20110731
+- група:   Пуц, Жълтурко и приятели
+  име:     +=papka[ prikazki/puc-zhylturko-i-tehnite-priiateli == (приказка) ]url
+  парчета:
+    Puc, Zhylturko i priiateli:1. kudkudiak oleliia stana pak:
+      име:    Кудкудяк олелия стана пак
+      откога: 20110731
+    Puc, Zhylturko i priiateli:2. ti gonish - veselo si laem:
+      име:    Ти гониш - весело си лаем
+      откога: 20110731
+    Puc, Zhylturko i priiateli:3. lelia - zla sydba zashto sega:
+      име:    Леля - зла съдба защо сега
+      откога: 20110731
+- група:   Пук!
+  име:     +=papka[ prikazki/puk--valeri-petrov--cd798-kanev == (приказка) ]url
+  парчета:
+    Puk!:1. moreto e tynko:
+      име:    Морето е тънко
+      откога: 20110731
+    Puk!:2. hrili:
+      име:    Хрили
+      откога: 20110731
+    Puk!:3. biserche koeto ni pravi po-dobri:
+      име:    Бисерче което ни прави по-добри
+      откога: 20110731
+    Puk!:4. morski koncheta:
+      име:    Морски кончета
+      откога: 20110731
+- група:   Пътешествие без куфар
+  име:     +=papka[ prikazki/pyteshestvie-bez-kufar == (приказка) ]url
+  парчета:
+    Pyteshestvie bez kufar:1. kuchi stud:
+      име:    Кучи студ
+      откога: 20110731
+    Pyteshestvie bez kufar:2. koga li shte razcyfna i uzreia:
+      име:    Кога ли ще разцъфна и узрея
+      откога: 20110731
+    Pyteshestvie bez kufar:3. u brej che mi se zhivej:
+      име:    У брей че ми се живей
+      откога: 20110731
+    Pyteshestvie bez kufar:4. gyba - shapkata chervenata:
+      име:    Гъба - шапката червената
+      откога: 20110731
+    Pyteshestvie bez kufar:5. pesenta na Atanas i Ragaca:
+      име:    Песента на Атанас и Рагаца
+      откога: 20110731
+    Pyteshestvie bez kufar:6. shte se hvyrlia na ajfel ot kulata:
+      име:    Ще се хвърля на айфел от кулата
+      откога: 20110731
+    Pyteshestvie bez kufar:7. da se vyrna v kyshti:
+      име:    Да се върна в къщи
+      откога: 20110731
+    Pyteshestvie bez kufar:8. krushata koga uzree:
+      име:    Крушата кога узрее
+      откога: 20110731
+- група:   Градче в табакера
+  име:     +=papka[ prikazki/srebyrno-kopitce--gradche-v-tabakera--baa10678 == (приказка) ]url
+  парчета:
+    Gradche v tabakera:1. din-din:
+      име:    Дин-дин
+      откога: 20110731
+    Gradche v tabakera:2. nadziratel:
+      име:    Надзирател
+      откога: 20110731
+- група:   Сребърното копитце
+  име:     +=papka[ prikazki/srebyrno-kopitce--gradche-v-tabakera--baa10678 == (приказка) ]url
+  парчета:
+    Srebyrnoto kopitce:1. diado kokovania:
+      име:    Дядо кокованя
+      откога: 20110731
+    Srebyrnoto kopitce:2. myr myr kolko diado e dobyr:
+      име:    Мър мър колко дядо е добър
+      откога: 20110731
+    Srebyrnoto kopitce:3. kozel ne e kato kozlite:
+      име:    Козел не е като козлите
+      откога: 20110731
+    Srebyrnoto kopitce:4. ne tyguvaj murke mila:
+      име:    Не тъгувай мурке мила
+      откога: 20110731
+- група:   Пепо мечока
+  име:     +=papka[ prikazki/tajnata-sila-na-mechoka-pepo--bea10743 == (приказка)
+    ]url
+  парчета:
+    Pepo mechoka:01. hubava ni e gorata:
+      име:    Хубава ни е гората
+      откога: 20110731
+    Pepo mechoka:02. chuzhdite gori:
+      име:    Чуждите гори
+      откога: 20110731
+    Pepo mechoka:03. tova ne e gora:
+      име:    Това не е гора
+      откога: 20110731
+    Pepo mechoka:04. vylka:
+      име:    Вълка
+      откога: 20110731
+    Pepo mechoka:05. novite zakoni:
+      име:    Новите закони
+      откога: 20110731
+    Pepo mechoka:06. kuku stavaj ti:
+      име:    Куку ставай ти
+      откога: 20110731
+    Pepo mechoka:07. nravite na zhivotnite v dybravite:
+      име:    Нравите на животните в дъбравите
+      откога: 20110731
+    Pepo mechoka:08. preskundak:
+      име:    Прескундак
+      откога: 20110731
+    Pepo mechoka:09. bral vylk kypini:
+      име:    Брал вълк къпини
+      откога: 20110731
+    Pepo mechoka:10. bral vylk kypini2:
+      име:    Брал вълк къпини2
+      откога: 20110731
+    Pepo mechoka:11. peem ot zori do mrak:
+      име:    Пеем от зори до мрак
+      откога: 20110731
+    Pepo mechoka:12. brym:
+      име:    Бръм
+      откога: 20110731
+
+#откога: 110802
+#издание: приказки
+# vim:ts=4:sw=4:expandtab:ft=yaml

@@ -1,0 +1,51 @@
+име:         Стихове
+етикети:     възрастни и-автор и-име стихове
+автор:       ДамянДамянов
+издания:     радио
+качество:    ?/?
+опис.връзки:
+  http://www.slovo.bg/showauthor.php3?ID=120&LangID=1:                       текстове
+  http://www.sibir.bg/index.php?page=displayTopic&id=2034&tid=16392:         текст
+  http://www.sibir.bg/index.php?page=displayTopic&id=4856&tid=87375:         текст
+  http://forum.all.bg/showflat.php/Cat/0/Number/646847/Main/616225:          текст
+    - всяка нощ
+  http://forum.all.bg/showflat.php/Cat/0/Number/1505201/an/page/page/0/vc/1: текст
+    - цял омотан в кълбото ти грамадно..
+  http://www.slovo.bg/old/damyanov/:                                         текстове
+откога:      20130806 20130808
+откъде:      Ркц 20130805-7
+участници:
+  изпълнение: ВеселинРанков
+парчета:
+  stihove--damian.damianov-veselin.rankov--1--radio:
+    име:        Част 1
+    откога:     20130808
+    срез:       629 - 1076
+    съдържание:
+    - всяка нощ
+    - изповед
+    - вандалите
+    - жерави
+    - побъркваш ме
+    - цял омотан в кълбото ти грамадно..
+  stihove--damian.damianov-veselin.rankov--2--radio:
+    име:        Част 2
+    откога:     20130808
+    срез:       662- 1160
+    съдържание:
+    - обади се любов, позвъни..
+    - ти
+    - сребърна сватба
+    - на сбогуване
+    - болезнено зелена тишина..
+  stihove--damian.damianov-veselin.rankov--3--radio:
+    име:        Част 3
+    откога:     20130808
+    повреда:    липсва края
+    срез:       593-
+    съдържание:
+    - прозорците
+    - живот
+    - шах със себе си
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

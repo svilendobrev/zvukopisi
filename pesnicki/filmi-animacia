@@ -1,0 +1,310 @@
+име:            Песнички от детски анимационни филми
+имена:
+  en: Songs from children animation films
+  ru: Песенки из детских мультфильмов
+етикети:        избор накратко песни
+качество:       +/+
+описание2: >-
+  нещата на български са отбелязани с .бг.
+
+  някои песни имат отделени "въведение" и "послеслов", които всъщност се сливат (без
+  паузи).
+
+  подбор, отделяне, обработка, сглобяване... svd'2009
+откога:         110916
+шаблон-елемент: 'ф: залепи( '' '', ф.групаномер, ф.елемент)'
+групи:
+- група:   Аристокотки.бг
+  име:     +=/ url[ http://bg.wikipedia.org/wiki/Аристокотките == Aristocats '1970 disney ]url
+  парчета:
+    aristocats.bg:1.koi-e-roden:
+      име:    Кой е роден
+      откога: 20090218
+    aristocats.bg:2.do-mi-sol-do:
+      име:    До ми сол до (гами и арпежи)
+      откога: 20090218
+    aristocats.bg:3.tomas-o-mali:
+      име:    Томас о мали
+      откога: 20090218
+    aristocats.bg:4.vseki-iska-da-e-kotarak.i:
+      име:    Всеки иска да е котарак.0
+      откога: 20090218
+    aristocats.bg:5.vseki-iska-da-e-kotarak:
+      име:    Всеки иска да е котарак
+      откога: 20090218
+    aristocats.bg:6.vseki-iska-da-e-kotarak.o:
+      име:    Всеки иска да е котарак.1
+      откога: 20090218
+    aristocats.bg:7.vseki-iska2:
+      име:    Всеки иска2
+      откога: 20090218
+    aristocats.bg:8.vseki-iska3:
+      име:    Всеки иска3
+      откога: 20090218
+- група:   Пух:мечо
+  име:     'Мечо пух: Приключения / url[ http://en.wikipedia.org/wiki/The_Many_Adventures_of_Winnie_the_Pooh
+    == Many adventures of Winnie the Pooh ''1977 disney ]url'
+  парчета:
+    puh-winnie:01.winnie-the-pooh.in:
+      име:    Winnie the pooh.0
+      откога: 20090218
+    puh-winnie:02.winnie-the-pooh:
+      име:    Winnie the pooh
+      откога: 20090218
+    puh-winnie:03.up-down:
+      име:    Up down
+      откога: 20090218
+    puh-winnie:04.rumbly-tumbly:
+      име:    Rumbly tumbly
+      откога: 20090218
+    puh-winnie:05.rain-cloud:
+      име:    Rain cloud
+      откога: 20090218
+    puh-winnie:06.hooray-pooh:
+      име:    Hooray pooh
+      откога: 20090218
+    puh-winnie:07.blastery-day:
+      име:    Blastery day
+      откога: 20090218
+    puh-winnie:08.tigger:
+      име:    Tigger
+      откога: 20090218
+    puh-winnie:09.hefalumps-and-moosels:
+      име:    Hefalumps and moosels
+      откога: 20090218
+    puh-winnie:10.rain-piglet-pooh:
+      име:    Rain piglet pooh
+      откога: 20090218
+    puh-winnie:11.hero.party:
+      име:    Hero.party
+      откога: 20090218
+- група:   Пух:муслон
+  име:     'Мечо пух: Муслонофилм / Hefalumps movie ''2005 disney'
+  парчета:
+    puh-hefalump:1.namegame:
+      име:    Namegame
+      откога: 20090218
+    puh-hefalump:2.we-stand:
+      име:    We stand
+      откога: 20090218
+    puh-hefalump:3.we-stand1:
+      име:    We stand1
+      откога: 20090218
+- група:   Пух:ден за открития.бг
+  име:     'Мечо пух: Ден за открития.бг / Great day for discovery ''2005 disney'
+  парчета:
+    puh-great.day.discovery.bg:1.igri-s-puh:
+      име:    Игри с пух
+      откога: 20090218
+- група:   Пух:сезони.бг
+  име:     'Мечо пух: Сезони на щедрост.бг / Seasons of giving ''1999 disney'
+  парчета:
+    puh-seasons1.bg:1.meco-puh:
+      име:    Мечо пух
+      откога: 20090218
+    puh-seasons1.bg:2.nov-sezon:
+      име:    Нов сезон
+      откога: 20090218
+    puh-seasons1.bg:3.tova-e-denia:
+      име:    Това е деня
+      откога: 20090218
+    puh-seasons1.bg:4.puika-zla:
+      име:    Пуйка зла
+      откога: 20090218
+    puh-seasons1.bg:5.plodceta-cerveni:
+      име:    Плодчета червени
+      откога: 20090218
+    puh-seasons2.bg:1.blagodarnost:
+      име:    Благодарност
+      откога: 20090218
+- група:   Пух:нова година
+  име:     'Мечо пух: Честита нова година / Very merry pooh year ''2002 disney'
+  парчета:
+    puh-newyear:1.winnie-puh:
+      име:    Winnie puh
+      откога: 20090218
+- група:   Пух:прасчо
+  име:     'Мечо пух: Прасчофилм / Piglet''s big movie ''2003 disney'
+  парчета:
+    puh-piglet:1.ho-expedition:
+      име:    Ho expedition
+      откога: 20090218
+    puh-piglet:2.few-good-friends:
+      име:    Few good friends
+      откога: 20090218
+- група:   Пух:тигърр
+  име:     'Мечо пух: Тигрофилм / Tigger movie ''2000   disney'
+  парчета:
+    puh-tigger:1.tigger-wonderful-things:
+      име:    Tigger wonderful things
+      откога: 20090218
+    puh-tigger:2.loopty-bounce:
+      име:    Loopty bounce
+      откога: 20090218
+    puh-tigger:3.how-to-be-a-tigger:
+      име:    How to be a tigger
+      откога: 20090218
+    puh-tigger:4.how-to-be-a-tigger2:
+      име:    How to be a tigger2
+      откога: 20090218
+- група:   Робин Худ.бг
+  име:     +=/ url[ http://en.wikipedia.org/wiki/Robin_hood_disney == Robin Hood '1973 disney ]url
+  парчета:
+    robin.hud.bg:1.vyrviaha-iz-gorata:
+      име:    Вървяха из гората
+      откога: 20090218
+    robin.hud.bg:2.kral-kovaren:
+      име:    Крал коварен
+      откога: 20090218
+- група:   Маугли.бг
+  име:     +=- Книга за джунглата / url[ http://en.wikipedia.org/wiki/The_Jungle_Book_(1967_film)
+    == Jungle book '1967 disney ]url
+  парчета:
+    jungle.book.bg:1.slon-patrul:
+      име:    Слон патрул
+      откога: 20090218
+    jungle.book.bg:2.vazhnite-neshta:
+      име:    Важните неща
+      откога: 20090218
+    jungle.book.bg:3.vazhnite-neshta.o1:
+      име:    Важните неща.1
+      откога: 20090218
+    jungle.book.bg:4.vazhnite-neshta.o2:
+      име:    Важните неща.2
+      откога: 20090218
+    jungle.book.bg:5.kralya:
+      име:    Краля
+      откога: 20090218
+    jungle.book.bg:6.vazhnite-neshta2:
+      име:    Важните неща2
+      откога: 20090218
+    jungle.book.bg:7.vyarvai-v-men:
+      име:    Вярвай в мен
+      откога: 20090218
+    jungle.book.bg:8.moi-geroi:
+      име:    Мой герой
+      откога: 20090218
+    jungle.book.bg:9.vazhnite-neshta3:
+      име:    Важните неща3
+      откога: 20090218
+- група:   Ловен сезон.бг
+  име:     +=/ url[ http://en.wikipedia.org/wiki/Open_Season_(film) == Open season '2006 sony ]url
+  парчета:
+    loven.sezon:1.v gorata1 - piknik:
+      име:    В гората1 - пикник
+      откога: 20110916
+    loven.sezon:2.v gorata2 - bodil:
+      име:    В гората2 - бодил
+      откога: 20110916
+    loven.sezon:3.v gorata3 - na lov:
+      име:    В гората3 - на лов
+      откога: 20110916
+- група:   Сърфисти.бг
+  име:     +=/ url[ http://en.wikipedia.org/wiki/Surf's_Up_(film) == Surfs Up '2007 sony ]url
+  парчета:
+    surfisti:1.ukulele1:
+      име:    Укулеле1
+      откога: 20110916
+    surfisti:2.ukulele2:
+      име:    Укулеле2
+      откога: 20110916
+- група:   Тоторо съседът
+  име:     +=/ url[ http://en.wikipedia.org/wiki/My_Neighbor_Totoro == Tonari no Totoro '1988 ghibli
+    ]url
+  парчета:
+    totoro:1.razhodka:
+      име:    Разходка
+      откога: 20110916
+    totoro:2.totoro:
+      име:    Тоторо
+      откога: 20110916
+- група:   Аз, злодеят
+  име:     +=/ url[ http://en.wikipedia.org/wiki/Despicable_Me == Despicable Me '2010 universal ]url
+  парчета:
+    Despicable Me (Pharrell- The Neptunes):
+      име:    Аз, злодеят
+      откога: 20110324
+    Unicorn Song (Agnes- The Neptunes):
+      име:    Еднорози
+      откога: 20110324
+- група:   Джейми
+  име:     +=и вълшебното фенерче / url[ http://en.wikipedia.org/wiki/Jamie_and_the_Magic_Torch
+    == Jamie and the magic torch '1976 cosgrove ]url
+  парчета:
+    jamie+magic.torch:1.begin:
+      име:    Начало
+      откога: 20090218
+    jamie+magic.torch:2.torch:
+      име:    Вълшебното фенерче
+      откога: 20090218
+    jamie+magic.torch:3.end:
+      име:    Край
+      откога: 20090218
+- група:   Вълкът и седемте козлета
+  име:     +=/ url[ http://multiki.arjlover.net/info/volk.i.semero.kozlyat.avi.html
+    == Волк и семеро козлят '1957 союзмультфильм ]url
+  парчета:
+    volk.i.semero.kozlyat:1.koza:
+      име:    Коза
+      откога: 20090218
+    volk.i.semero.kozlyat:2.volk1:
+      име:    Волк1
+      откога: 20090218
+    volk.i.semero.kozlyat:3.volk2:
+      име:    Волк2
+      откога: 20090218
+- група:   Разни
+  парчета:
+    pinkpanter:1.pinko:
+      име:         'Розовата пантера: Пинко'
+      автор:       ХенриМанчини
+      опис.връзки:
+        http://en.wikipedia.org/wiki/The_Pink_Panther_Theme: 1963
+      откога:      20090218
+    ostrov.sokrovisht--svd:1.kniga:
+      име:         Остров сокровищ
+      опис.връзки:
+        http://www.animator.ru/db/index.phtml?p=show_film&fid==3661: киевнаучфильм'1986
+      откога:      20090218
+    um_le_dauphin_blanc:1.ouuum:
+      име:         Уум белия делфин
+      опис.връзки:
+        http://bg.wikipedia.org/wiki/Ум_белият_делфин: франция'1971
+      откога:      20090218
+    barbapapa:1.barbapapa:
+      име:         Барбарони
+      опис.връзки:
+        http://bg.wikipedia.org/wiki/Татко_Барба: франция'1970
+      откога:      20090218
+- група:   Aristocats
+  име:     Аристокотки / url[ http://en.wikipedia.org/wiki/The_Aristocats == Aristocats
+    '1970 оригинал disney ]url
+  парчета:
+    aristocats.en:1.koi-e-roden:
+      име:    The aristocats
+      откога: 20090218
+    aristocats.en:2.do-mi-sol-do:
+      име:    Do mi sol do (scales and arpeggios)
+      откога: 20090218
+    aristocats.en:3.tomas-o-mali:
+      име:    Thomas o'malley
+      откога: 20090218
+    aristocats.en:4.vseki-iska-da-e-kotarak.i:
+      име:    Everybody wants to be a cat.0
+      откога: 20090218
+    aristocats.en:5.vseki-iska-da-e-kotarak:
+      име:    Everybody wants to be a cat
+      откога: 20090218
+    aristocats.en:6.vseki-iska-da-e-kotarak.o:
+      име:    Everybody wants to be a cat.1
+      откога: 20090218
+    aristocats.en:7.vseki-iska2:
+      име:    Everybody wants2
+      откога: 20090218
+    aristocats.en:8.vseki-iska3:
+      име:    Everybody wants3
+      откога: 20090218
+
+#откога: 100919
+#издание: филми
+# vim:ts=4:sw=4:expandtab:ft=yaml

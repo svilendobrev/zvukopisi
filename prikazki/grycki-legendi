@@ -1,0 +1,93 @@
+име:       Гръцки легенди
+етикети:   и-номер накратко номер1 отделни папка
+автор:     ДимитърИнкьов
+издания:   cd668-кънев cd669-кънев cd670-кънев
+икони:     leg-all.jpg
+качество:  ~/+
+откога:    100820
+произход:  zoy
+участници:
+  изпълнение: ХристоРуков
+  музика:     БойкоКънев
+  режисьор:   БойкоКънев
+групи:
+- група:   1. Прабогове и титани
+  парчета:
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/1-Vremeto na prabogovete:
+      име:    Времето на прабоговете
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/2-Zevs nakazva prahorata:
+      име:    Зевс наказва прахората
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/3-Otkradvaneto na Evropa:
+      име:    Открадването на Европа
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/4-Car Midas:
+      име:    Цар Мидас
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/5-Car Midas ima magareshki ushi:
+      име:    Цар Мидас има магарешки уши
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/6-Prometej podaryava na horata ogynya:
+      име:    Прометей подарява на хората огъня
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/7-Aktalion - princyt kojto stana elen:
+      име:    Акталион - принцът който стана елен
+      откога: 20090529
+    grycki_legendi-1-prabogove-i-titani--cd668-kanev/8-Princesa Jo - krasivata krava:
+      име:    Принцеса Йо - красивата крава
+      откога: 20090529
+- група:   2. Богове и богини
+  парчета:
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/1-Orfej v podzemniya svyat:
+      име:    Орфей в подземния свят
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/2-Meduza - zhenata s kosa ot zmii:
+      име:    Медуза - жената с коса от змии
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/3-Nakazanieto na Tantal:
+      име:    Наказанието на Тантал
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/4-Faeton i slynchevata kolesnica:
+      име:    Фаетон и слънчевата колесница
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/5-Bitkata s gigantite:
+      име:    Битката с гигантите
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/6-Nakazanieto na Sizif:
+      име:    Наказанието на Сизиф
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/7-Zashto ima lyato i zima:
+      име:    Защо има лято и зима
+      откога: 20090529
+    grycki_legendi-2-bogove-i-bogini--cd669-kanev/8-Nagradata na Filejmon i zhena mu Bavgida:
+      име:    Наградата на Филеймон и Бавгида
+      откога: 20090529
+- група:   3. Одисей
+  парчета:
+    grycki_legendi-3-odisej--cd670-kanev/1-Yabylkata na razdora:
+      име:    Ябълката на раздора
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/2-Troyanskiyat kon:
+      име:    Троянският кон
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/3-Nakazanieto na Odisej:
+      име:    Наказанието на Одисей
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/4-Oslepyavaneto na ciklopa Polifem:
+      име:    Ослепяването на циклопа Полифем
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/5-Ahilesovata peta:
+      име:    Ахилесовата пета
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/6-Nadbyagvane s Atlanta:
+      име:    Надбягване с Атланта
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/7-Legenda za zlatnoto runo:
+      име:    Легенда за златното руно
+      откога: 20090529
+    grycki_legendi-3-odisej--cd670-kanev/8-Narcis - mladezhyt kojto se vlyubi v sebe si:
+      име:    Нарцис, който се влюби в себе си
+      откога: 20090529
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

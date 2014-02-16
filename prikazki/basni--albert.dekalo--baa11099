@@ -1,0 +1,122 @@
+име:       Басни
+етикети:   и-автор и-номер отделни папка
+автор:     АлбертДекало
+издания:   ВАА11099
+качество:  ?/?
+откога:    20130325
+произход:  petyr
+участници:
+  изпълнение:
+  - СлавкаСлавова
+  - НиколайБинев
+  - ТатянаЛолова
+  - ИванАндонов
+  режисьор:   ИванАндонов
+парчета:
+  basni--albert.dekalo--01_orel_i_ohljuv--baa11099:
+    име:    Орел и охлюв
+    откога: 20130325
+  basni--albert.dekalo--02_predlozhenie--baa11099:
+    име:    Предложение
+    откога: 20130325
+  basni--albert.dekalo--03_lisica_i_taralezh--baa11099:
+    име:    Лисица и таралеж
+    откога: 20130325
+  basni--albert.dekalo--04_kakvo_zabravi_lisicata--baa11099:
+    име:    Какво забрави лисицата
+    откога: 20130325
+  basni--albert.dekalo--05_dlyzhnostta_'slavej'--baa11099:
+    име:    Длъжността „Славей”
+    откога: 20130325
+  basni--albert.dekalo--06_preporaka--baa11099:
+    име:    Препоръка
+    откога: 20130325
+  basni--albert.dekalo--07_pouka--baa11099:
+    име:    Поука
+    откога: 20130325
+  basni--albert.dekalo--08_hameleon--baa11099:
+    име:    Хамелеон
+    откога: 20130325
+  basni--albert.dekalo--09_zhertvata_na_lisicata--baa11099:
+    име:    Жертвата на лисицата
+    откога: 20130325
+  basni--albert.dekalo--10_istorija_s_mechka--baa11099:
+    име:    История с мечка
+    откога: 20130325
+  basni--albert.dekalo--11_kanconeta--baa11099:
+    име:    Канцонета
+    откога: 20130325
+  basni--albert.dekalo--12_konkurs--baa11099:
+    име:    Конкурс
+    откога: 20130325
+  basni--albert.dekalo--13_kashalotyt--baa11099:
+    име:    Кашалотът
+    откога: 20130325
+  basni--albert.dekalo--14_koncert_za_garga_i_orkestar--baa11099:
+    име:    Концерт за гарга и оркестър
+    откога: 20130325
+  basni--albert.dekalo--15_traktat--baa11099:
+    име:    Трактат
+    откога: 20130325
+  basni--albert.dekalo--16_repertoar--baa11099:
+    име:    Репертоар
+    откога: 20130325
+  basni--albert.dekalo--17_opashatata_kometa--baa11099:
+    име:    Опашатата комета
+    откога: 20130325
+  basni--albert.dekalo--18_more--baa11099:
+    име:    Море
+    откога: 20130325
+  basni--albert.dekalo--19_izvorche_i_blato--baa11099:
+    име:    Изворче и блато
+    откога: 20130325
+  basni--albert.dekalo--20_potocheto--baa11099:
+    име:    Поточето
+    откога: 20130325
+  basni--albert.dekalo--21_roza_i_koza--baa11099:
+    име:    Роза и коза
+    откога: 20130325
+  basni--albert.dekalo--22_tikva_sred_kratuni--baa11099:
+    име:    Тиква сред кратуни
+    откога: 20130325
+  basni--albert.dekalo--23_gyshe_mnenie--baa11099:
+    име:    Гъше мнение
+    откога: 20130325
+  basni--albert.dekalo--24_kokoshka_v_chuzhbina--baa11099:
+    име:    Кокошка в чужбина
+    откога: 20130325
+  basni--albert.dekalo--25_zaslugite_na_gyskite--baa11099:
+    име:    Заслугите на гъските
+    откога: 20130325
+  basni--albert.dekalo--26_moral--baa11099:
+    име:    Морал
+    откога: 20130325
+  basni--albert.dekalo--27_petnoto--baa11099:
+    име:    Петното
+    откога: 20130325
+  basni--albert.dekalo--28_pila_i_chetka--baa11099:
+    име:    Пила и четка
+    откога: 20130325
+  basni--albert.dekalo--29_magniti--baa11099:
+    име:    Магнити
+    откога: 20130325
+  basni--albert.dekalo--30_potoche_i_reka--baa11099:
+    име:    Поточе и река
+    откога: 20130325
+  basni--albert.dekalo--31_plug_i_shejna--baa11099:
+    име:    Плуг и шейна
+    откога: 20130325
+  basni--albert.dekalo--32_grymootvod_i_vetropokazatel--baa11099:
+    име:    Гръмоотвод и ветропоказател
+    откога: 20130325
+  basni--albert.dekalo--33_ventilator--baa11099:
+    име:    Вентилатор
+    откога: 20130325
+  basni--albert.dekalo--34_izvoryt--baa11099:
+    име:    Изворът
+    откога: 20130325
+  basni--albert.dekalo--35_ogynjat_na_svetulkata--baa11099:
+    име:    Огънят на светулката
+    откога: 20130325
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

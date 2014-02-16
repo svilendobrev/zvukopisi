@@ -1,0 +1,30 @@
+име:       Разкази
+етикети:   възрастни изпълнители-в-автор моно препоръка прочит
+автор:     ЕлинПелин
+издания:   ВАА1043
+икони:     e.pelin-baa1043-1.jpg
+качество:  +/+
+обработка:
+- qcut ep1.wav 7s 545s
+- qcut ep1.wav 549s 1119s
+- qcut ep2.wav 2s 695s
+- qcut ep2.wav 700s 1264s
+откога:    120403
+участници:
+  изпълнение: АпостолКарамитев
+  художник:   ЕмилВелчев
+парчета:
+  na_brazdata--elin.pelin-ap.karamitev:
+    име:    На браздата
+    откога: 20120402
+  pechena_tikva--elin.pelin-ap.karamitev:
+    име:    Печена тиква
+    откога: 20120402
+  na_onia_sviat--elin.pelin-ap.karamitev:
+    име:    На оня свят
+    откога: 20120402
+  neshtastie--elin.pelin-ap.karamitev:
+    име:    Нещастие
+    откога: 20120402
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

@@ -1,0 +1,27 @@
+име:         Стихове
+етикети:     възрастни стихове
+автор:       ПенчоСлавейков
+икони:       pencho.slaveikov-kr.voznesenski--kaseta-A2.jpg
+качество:    ?/+
+опис.връзки:
+  http://www.slovo.bg/showauthor.php3?ID=105&LangID=1: текстове
+  http://www.libvar.bg/publications/slaveykov/:        подборка библиотека-Варна
+описание2:   Художествени текстове за 7 клас, Студио "Бели, зелени, червени", малък театър Пловдив
+откога:      120330
+произход:    libvarna svd
+участници:
+  изпълнение:           КрасимирВоскресенски
+  музикално-оформление: АлбенаДимова
+  звуково-оформление:   СветлинСтанков
+парчета:
+  bojko--pencho.slaveikov-kr.voznesenski--kaseta:
+    име:    Бойко
+    откога: 20120330
+  chumavi--pencho.slaveikov-kr.voznesenski--kaseta:
+    име:    Чумави
+    откога: 20120330
+  ralica--pencho.slaveikov-kr.voznesenski--kaseta:
+    име:    Ралица
+    откога: 20120330
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

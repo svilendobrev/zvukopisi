@@ -1,0 +1,43 @@
+име:       Шарена черга -ТВ.серии
+етикети:   и-автор и-име избор изпълнители-в-автор отделни папка препоръка
+автор:     ЙорданРадичков
+издания:   ТВ
+икони:     sharena_cherga-zhabite-tv.jpg
+качество:  +/+
+описание:  това е звука от  куклените филмчета.. търсят се другите серии
+откога:    120405
+участници:
+  изпълнение: ЕленаСаръиванова
+парчета:
+  sharena_cherga--ako_cvetovete_biaha_sivi_(pushekyt-hudozhnik)--j.radichkov-e.saryivanova--tv:
+    име:    Ако цветовете бяха сиви (Пушекът-художник)
+    откога: 20120405
+  sharena_cherga--kak_da_se_kachim_na_nebeto_(viatyr_i_agne)--j.radichkov-e.saryivanova--tv:
+    име:    Как да се качим на небето (Вятър и агне)
+    откога: 20120405
+  sharena_cherga--kak_ohliuvyt_obikoli_zemiata--j.radichkov-e.saryivanova--tv:
+    име:    Как охлювът обиколи земята
+    откога: 20120405
+  sharena_cherga--pleshivite_zhabi_(v_mliakoto)--j.radichkov-e.saryivanova--tv:
+    име:    Плешивите жаби (в млякото)
+    откога: 20120405
+  sharena_cherga--razbojnikyt_(grozdov_sok)--j.radichkov-e.saryivanova--tv:
+    име:    Разбойникът (Гроздов сок)
+    откога: 20120405
+  sharena_cherga--siankata.na.magareto--j.radichkov-e.saryivanova--tv:
+    име:    Сянката на магарето
+    откога: 20120405
+  sharena_cherga--stenobojnata_mashina_(ovni_i_krepost)--j.radichkov-e.saryivanova--tv:
+    име:    Стенобойната машина (Овни и крепост)
+    откога: 20120405
+  sharena_cherga--za_kakvo_se_karat_zhabite--j.radichkov-e.saryivanova--tv:
+    име:    За какво се карат жабите
+    откога: 20120405
+  sharena_cherga--zashto_okachvat_torbata_na_krushata--j.radichkov-e.saryivanova--tv:
+    име:    Защо окачват торбата на крушата
+    откога: 20120405
+  sharena_cherga--zhabata_omagiosana_carska_dyshteria--j.radichkov-e.saryivanova--tv:
+    име:    Жабата - омагьосана царска дъщеря
+    откога: 20120405
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

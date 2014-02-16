@@ -1,0 +1,62 @@
+име:         Стайният вълшебник
+етикети:     отделни папка подреди-парчета
+автор:       ИринаКарадимчева
+издания:     радио
+икони:       stainiia.vylshebnik--irina.karadimcheva--kniga.jpg
+качество:    ?/+
+опис.връзки:
+  http://www.helikon.bg/books/7/57416_stajniiat-valshebnik.html: книга
+откога:      120323
+откъде:      Събуди ме с приказка 20120312-0316 ВзаП 20120423-26 20120504-08 20130618
+  2014
+произход:    svd
+парчета:
+  da.napravim.sveta--i.karadimcheva--radio:
+    име:    Да направим света
+    откога: 20120323
+  detskite.rychichki--i.karadimcheva--radio:
+    име:    Детските ръчички и сапуна
+    откога: 20120323
+  divite_iutii--i.karadimcheva--radio:
+    име:    Дивите ютии
+    откога: 20120518
+  filii--i.karadimcheva--radio:
+    име:    Филии
+    откога: 20120323
+  kak.biaha.izmisleni.lunichkite--irina.karadimcheva--radio:
+    име:    Как бяха измислени луничките
+    откога: 20120623
+  kak_se_poiavili_midite--i.karadimcheva--radio:
+    име:    Как се появили мидите
+    откога: 20130619
+  kak_se_poiavili_pisheshtite_mashini--i.karadimcheva--radio:
+    име:    Как се появили пишещите машини
+    откога: 20120518
+  kak_se_poiavili_shokoladovite_iajca--i.karadimcheva--radio:
+    име:     Как се появили шоколадовите яйца
+    2откъде: ВзаП 20140117
+    2срез:   1033.9 - 1265
+    откога:  20120428 20140125
+  kak_se_poiavili_topkite--i.karadimcheva--radio:
+    име:    Как се появили топките
+    откога: 20120428
+  kak_se_poiavili_vyzhencata_za_skachane-dygi--i.karadimcheva--radio:
+    име:    Как се появили въженцата за скачане-първите дъги
+    откога: 20120428
+  kak_se_poiavilo_vienskoto_kolelo--i.karadimcheva--radio:
+    име:    Как се появило виенското колело
+    откога: 20120428
+  kak_shtastieto_se_skri_v_chetirilistna_detelina--i.karadimcheva--radio:
+    име:    Как щастието се скри в четирилистна детелина
+    откога: 20120518
+  komini--i.karadimcheva--radio:
+    име:    Комините
+    откога: 20120323
+  stainiia.vylshebnik--i.karadimcheva--radio:
+    име:    Стайният вълшебник
+    откога: 20120323
+  будилникът--ирина.карадимчева--радио:
+    име:    Будилникът в приказките
+    откога: 20120411
+
+# vim:ts=4:sw=4:expandtab:ft=yaml

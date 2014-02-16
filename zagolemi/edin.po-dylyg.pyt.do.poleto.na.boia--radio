@@ -1,0 +1,54 @@
+име:         Един по-дълъг път до полето на боя
+етикети:     възрастни документални номер1 отделни
+автор:
+- ДаниелаМанолова
+- БориславЕвлогиев
+- СойлаВалкама
+- КайРантала
+издания:     радио
+качество:    ?/?
+опис.връзки:
+  http://bnr.bg/sites/hristobotev/Shows/Society/DocumentalStudio/Pages/120519_Bul_Fin.aspx:              БНР0
+  http://bnr.bg/sites/hristobotev/Shows/Society/DocumentalStudio/Pages/121124_Enrot_1.aspx:              БНР1
+  http://bnr.bg/sites/hristobotev/Shows/Society/DocumentalStudio/Pages/130302_Dokkumentalno_studyo.aspx: БНР2
+описание:    Българско-финландски документален проект за финландските войници и генерали,
+  участвали в Руско-Турската война 1877 и след това
+откога:      20130525
+откъде:      Документално студио 20121124 20121215 20130202 20130302 20130615 20130803 20131116 20131130
+участници:
+  редактор:   МайяДинева
+  продуценти:
+  - ПаулянаНовакова
+  - ХанаКаристо
+  звукозапис:
+  - ЖивкоМарев
+  - КонстантинРайдовски
+  превод:     АнитаИванов
+парчета:
+  edin.po-dylyg.pyt.do.poleto.na.boia-1-ernrotovi--radio:
+    име:    Ернротови
+    откога: 20130325
+    срез:   724.7 - 2934
+  edin.po-dylyg.pyt.do.poleto.na.boia-2-fon.vendt--radio:
+    име:    Фон Вендт
+    откога: 20130325 20131116
+    срез:   571- 610- 2628 - 2678
+  edin.po-dylyg.pyt.do.poleto.na.boia-3.bylgaria--radio:
+    име:    България
+    откога: 20130325
+    срез:   731.6- -2805.3
+  edin.po-dylyg.pyt.do.poleto.na.boia-4.kogato_telata_zaginat--radio:
+    име:    Когато телата загинат
+    откога: 20130325 20131201
+    срез:   526 3102
+  edin.po-dylyg.pyt.do.poleto.na.boia-5-sojla--radio:
+    име:    Семейството на Сойла
+    откога: 20130619 20130803
+    срез:   580-3168
+  edin.po-dylyg.pyt.do.poleto.na.boia-6-tampere--radio:
+    име:    Тампере
+    откога: 20130811
+    откъде: Док ст. 20130810
+    срез:   680- 3281.4
+
+# vim:ts=4:sw=4:expandtab:ft=yaml
