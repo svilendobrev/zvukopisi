@@ -16,7 +16,7 @@
   текст-песни:           ЙорданЯнков
   текст-песни.английски: КръстанДянков
 групи:
-- група:   Алабашия1
+- група:   A1
   парчета:
     alabashia- koi e Karl Sandbyrg:
       име:    Кой е Карл Сандбърг
@@ -31,7 +31,7 @@
     alabashia- nikoga ne izritvai obuvkata si kum lunata:
       име:    Никога не изритвай обувката си към луната
       откога: 20111111
-- група:   Алабашия2
+- група:   A2
   парчета:
     alabashia- bliksi bimbyr i muskata ot zlatista elenova kozha:
       име:    Бликси Бимбър и муската от златиста еленова кожа
@@ -47,7 +47,7 @@
     alabashia- svatbenoto shestvie na parcalenata kukla i ryzhena:
       име:    Сватбеното шествие на парцалената кукла и ръжена
       откога: 20120309
-- група:   Алабашия1 - на английски - Rootabaga
+- група:   A1 - на английски - Rootabaga
   парчета:
     rootabaga- Who is Carl Sandburg:
       име:       Who is Carl Sandburg
@@ -65,7 +65,7 @@
       име:       Never kick a slipper at the moon
       описание2: Никога не изритвай обувката си към луната (англ.)
       откога:    20111111
-- група:   Алабашия2 - на английски - Rootabaga
+- група:   A2 - на английски - Rootabaga
   парчета:
     rootabaga- Blixie Bimber and the gold buckskin whincher:
       име:       Story of Blixie Bimber and the Power of the Gold Buckskin Whincher
